@@ -1,4 +1,4 @@
-# Initial repository of files related to <a href="https://www.thewincolumn.ca/">The Win Column.ca</a>
+# Initial repository of files related to <a href="https://www.thewincolumn.ca/">thewincolumn.ca</a>
 
 ### Roadmap
 
