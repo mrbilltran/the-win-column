@@ -2,10 +2,11 @@ library(tidyverse)
 library(ggforce)
 library(here)
 
-# Following the NHL rule book:
-# https://cms.nhl.bamgrid.com/images/assets/binary/308893668/binary-file/file.pdf
-
 nhl_rink_plot <- function () {
+  
+  # Plotting an NHL rink completely following the NHL rule book:
+  # https://cms.nhl.bamgrid.com/images/assets/binary/308893668/binary-file/file.pdf
+  # Line widths, lengths, colours, all followed as closely as possible
   
 ggplot() +
   
