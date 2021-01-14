@@ -2,6 +2,6 @@
 
 ### Roadmap
 
-The purpose of this repository is to slowly upload TWC documents that others may refer to.
+The purpose of this repository is to upload public TWC documents overtime.
 
 Uploads may contain R files, Adobe Illustrator files, data, etc.
